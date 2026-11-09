@@ -1,0 +1,84 @@
+NOVA V12 — IMAGE / DIALOGUE MATCHING
+
+개봉 · DOT Station에서 보내는 첫 인사
+1 | 0–1s | 08_CREW_LAUNCH.jpg | 네 친구가 함께 날아옴
+대사 없음: (No dialogue)
+네 색의 비행 궤적으로 등장.
+이미지: 블루·민트·옐로·핑크 네 명이 원형 출구 앞에서 각자의 색 궤적을 남기며 떠 있다.
+모션: 이 네 명의 자세에서 카메라를 향해 짧게 날아오는 움직임으로 시작. 다음 컷에서 민트를 가까이 보여준다.
+
+2 | 1–4s | 04_MINT_IDEA.jpg | 민트가 먼저 인사
+MINT: Oh! You're here. Welcome to DOT Station!
+어! 너 왔구나. DOT Station에 온 걸 환영해!
+이미지: 민트 한 명이 원형 발판 위에 살짝 떠 있고, 발아래 민트색 곡선 궤적이 보인다.
+모션: 민트가 발판에 가볍게 내려앉은 뒤 고개를 기울여 인사한다. 이 컷에는 다른 친구를 추가하지 않는다.
+
+3 | 4–9s | 01_RECORD_SIGNAL.jpg | 지구에서 도착한 작은 인사
+MINT (V.O.): A little hello from Earth reached us among the stars.
+지구에서 보낸 작은 인사가 별들 사이의 우리에게 닿았어.
+이미지: 골든 레코드와 소리 파동, 닫힌 네 크래들, 창 너머 지구가 보인다.
+모션: 레코드의 파동을 따라 천천히 전진. 다음 탄생 컷으로 연결한다.
+
+4 | 9–12s | 02_FOUR_AWAKEN.jpg | 네 NOVA의 탄생
+MINT (V.O.): That's where our story began.
+우리의 이야기는 그렇게 시작됐지.
+이미지: 열린 네 크래들 안에 블루·민트·옐로·핑크가 한 명씩 있고, 눈이 켜져 있다.
+모션: 이미지의 위치와 인원수를 유지한 채 네 눈이 순서대로 켜지고 작은 팔이 살짝 움직인다.
+
+5 | 12–15s | 06_YELLOW_LISTEN.jpg | 이제 너를 만나고 싶어
+YELLOW: Now, we'd love to meet you.
+이제는 너를 만나고 싶어.
+이미지: 옐로 한 명이 실험실 발판 위에서 작은 은색 팔을 들고 사용자를 바라본다.
+모션: 옐로만 살짝 고개를 기울여 인사한다. 뒤에 다른 NOVA가 모이는 연출은 넣지 않는다.
+
+6 | 15–19s | 15_POWER_REAL_BUTTONS.jpg | 전원이 연결된 디바이스
+BLUE (V.O.): Plug in your NOVA and turn it on.
+NOVA에 전원을 연결하고 켜줘.
+이미지: 실제 디바이스의 가슴 원형 버튼 3개와 아래 사각 버튼 1개, 짙은 후면 하우징이 보인다. 화면에는 민트 표정이 켜져 있고 전원 케이블은 뒤로 이어진다. 작은 블루가 뒤에서 안내한다.
+모션: 케이블과 켜진 디바이스를 함께 보여주는 클로즈업. 블루의 음성 안내를 얹는다. 실제 전원 버튼 조작 장면은 이 이미지에 포함되지 않는다.
+
+7 | 19–25s | 16_QR_REAL_BUTTONS.jpg | 디바이스 화면의 QR 스캔
+PINK (V.O.): Then scan the QR code on its screen with your phone.
+그다음 휴대폰으로 NOVA 화면의 QR 코드를 스캔해줘.
+이미지: 실제 디바이스의 가슴 원형 버튼 3개와 아래 사각 버튼 1개가 보인다. 검은 화면에는 QR이 표시되고, 왼쪽 휴대폰이 코드를 스캔한다.
+모션: 휴대폰이 QR을 스캔하는 동작만 짧게 추가한다. 핑크는 화면 밖에서 안내한다. QR은 구도 확인용이다.
+
+8 | 25–27s | 09_APP_WELCOME.jpg | 거기서 만나!
+MINT: See you there!
+거기서 만나!
+이미지: 블루·민트·옐로·핑크 네 명이 우주 무대 위에 나란히 서 있고 뒤로 큰 행성이 보인다.
+모션: 네 친구가 작게 팔을 흔들며 인사. 실제 앱의 QR 스캔 동작으로 이어진다.
+
+연결 · 기다리는 동안 네 친구와 친해지기
+1 | 0–6s | 04_MINT_IDEA.jpg | MINT · 호기심 많은 인사
+MINT: I'm NOVA Mint! Big ideas, little experiments. What shall we try first?
+나는 NOVA 민트야! 큰 상상도 작은 실험부터. 우리 뭐부터 해볼까?
+이미지: 민트 한 명이 팔을 들고 살짝 떠 있다. 발아래 민트색 곡선 궤적이 보인다.
+모션: 짧은 홉 후 착지하며 인사. 별도 실험 도구나 따라가는 빛은 이 컷에 추가하지 않는다.
+
+2 | 6–13s | 05_BLUE_VERIFY.jpg | BLUE · 차분한 안내
+BLUE: I'm NOVA Blue. No rush. We'll work through it, one step at a time.
+나는 NOVA 블루야. 서두르지 않아도 돼. 한 걸음씩 함께 풀어보자.
+이미지: 블루 한 명이 짧은 망토를 두르고 떠 있다. 한쪽 팔을 들고 뒤로 청록색 빛 선이 보인다.
+모션: 지금의 자세로 부드럽게 떠서 인사. 망토와 팔만 작게 움직인다. 빛을 정렬하는 동작은 넣지 않는다.
+
+3 | 13–19s | 06_YELLOW_LISTEN.jpg | YELLOW · 이야기를 듣는 인사
+YELLOW: I'm NOVA Yellow. Good day or tough day, I'm here to listen.
+나는 NOVA 옐로야. 좋은 날에도 힘든 날에도, 네 이야기를 들어줄게.
+이미지: 옐로 한 명이 흰색 몸통과 낮은 은색 발로 서 있고 한쪽 팔을 들고 있다.
+모션: 고개와 팔을 작게 움직이며 말을 건넨다. 그림에 없는 소리 파동이나 다른 친구는 넣지 않는다.
+
+4 | 19–25s | 07_PINK_NEXT_STEP.jpg | PINK · 다음 한 걸음을 제안
+PINK: I'm NOVA Pink. Tell me your goal. Let's find the next step together.
+나는 NOVA 핑크야. 목표를 알려줘. 다음 한 걸음을 같이 찾아보자.
+이미지: 핑크 한 명이 작은 탁자 옆에 서 있고, 탁자 위에는 흰색 점 세 개가 나란히 놓여 있다.
+모션: 탁자 쪽으로 든 팔을 살짝 움직인 뒤 사용자를 바라본다. 점을 연결하거나 색을 바꾸지 않는다.
+
+waiting
+Still getting ready. We'll keep you company.
+아직 준비 중이야. 우리가 같이 있어줄게.
+
+ready
+All set! Say hello to your NOVA.
+준비됐어! 이제 NOVA에게 인사해줘.
+

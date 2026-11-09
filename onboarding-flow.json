@@ -1,0 +1,185 @@
+{
+  "version": 12,
+  "aspect_ratio": "9:16",
+  "artwork": "Approved V5 character frames + three new Seedream 5 Pro 2K images",
+  "parts": {
+    "opening": {
+      "title": "개봉 · DOT Station에서 보내는 첫 인사",
+      "description": "Dot Station 앱을 처음 열었을 때 재생합니다. 짧은 세계관 소개 후 디바이스를 전원에 연결하고 켠 다음, 화면의 QR을 스캔하도록 안내합니다.",
+      "shots": [
+        {
+          "image": "08_CREW_LAUNCH",
+          "title": "네 친구가 함께 날아옴",
+          "speaker": "대사 없음",
+          "duration": 1,
+          "dialogue": "",
+          "ko": "네 색의 비행 궤적으로 등장.",
+          "visible": "블루·민트·옐로·핑크 네 명이 원형 출구 앞에서 각자의 색 궤적을 남기며 떠 있다.",
+          "motion": "이 네 명의 자세에서 카메라를 향해 짧게 날아오는 움직임으로 시작. 다음 컷에서 민트를 가까이 보여준다.",
+          "asset_origin": "승인된 V5 · 기존"
+        },
+        {
+          "image": "04_MINT_IDEA",
+          "title": "민트가 먼저 인사",
+          "speaker": "MINT",
+          "duration": 3,
+          "dialogue": "Oh! You're here. Welcome to DOT Station!",
+          "ko": "어! 너 왔구나. DOT Station에 온 걸 환영해!",
+          "motion": "민트가 발판에 가볍게 내려앉은 뒤 고개를 기울여 인사한다. 이 컷에는 다른 친구를 추가하지 않는다.",
+          "asset_origin": "승인된 V5 · 기존",
+          "visible": "민트 한 명이 원형 발판 위에 살짝 떠 있고, 발아래 민트색 곡선 궤적이 보인다."
+        },
+        {
+          "image": "01_RECORD_SIGNAL",
+          "title": "지구에서 도착한 작은 인사",
+          "speaker": "MINT (V.O.)",
+          "duration": 5,
+          "dialogue": "A little hello from Earth reached us among the stars.",
+          "ko": "지구에서 보낸 작은 인사가 별들 사이의 우리에게 닿았어.",
+          "motion": "레코드의 파동을 따라 천천히 전진. 다음 탄생 컷으로 연결한다.",
+          "asset_origin": "승인된 V5 · 기존",
+          "visible": "골든 레코드와 소리 파동, 닫힌 네 크래들, 창 너머 지구가 보인다."
+        },
+        {
+          "image": "02_FOUR_AWAKEN",
+          "title": "네 NOVA의 탄생",
+          "speaker": "MINT (V.O.)",
+          "duration": 3,
+          "dialogue": "That's where our story began.",
+          "ko": "우리의 이야기는 그렇게 시작됐지.",
+          "motion": "이미지의 위치와 인원수를 유지한 채 네 눈이 순서대로 켜지고 작은 팔이 살짝 움직인다.",
+          "asset_origin": "승인된 V5 · 기존",
+          "visible": "열린 네 크래들 안에 블루·민트·옐로·핑크가 한 명씩 있고, 눈이 켜져 있다."
+        },
+        {
+          "image": "06_YELLOW_LISTEN",
+          "title": "이제 너를 만나고 싶어",
+          "speaker": "YELLOW",
+          "duration": 3,
+          "dialogue": "Now, we'd love to meet you.",
+          "ko": "이제는 너를 만나고 싶어.",
+          "motion": "옐로만 살짝 고개를 기울여 인사한다. 뒤에 다른 NOVA가 모이는 연출은 넣지 않는다.",
+          "asset_origin": "승인된 V5 · 기존",
+          "visible": "옐로 한 명이 실험실 발판 위에서 작은 은색 팔을 들고 사용자를 바라본다."
+        },
+        {
+          "image": "15_POWER_REAL_BUTTONS",
+          "title": "전원이 연결된 디바이스",
+          "speaker": "BLUE (V.O.)",
+          "duration": 4,
+          "dialogue": "Plug in your NOVA and turn it on.",
+          "ko": "NOVA에 전원을 연결하고 켜줘.",
+          "motion": "케이블과 켜진 디바이스를 함께 보여주는 클로즈업. 블루의 음성 안내를 얹는다. 실제 전원 버튼 조작 장면은 이 이미지에 포함되지 않는다.",
+          "asset_origin": "Seedream 5 Pro · 실제 하드웨어 버튼 반영",
+          "visible": "실제 디바이스의 가슴 원형 버튼 3개와 아래 사각 버튼 1개, 짙은 후면 하우징이 보인다. 화면에는 민트 표정이 켜져 있고 전원 케이블은 뒤로 이어진다. 작은 블루가 뒤에서 안내한다."
+        },
+        {
+          "image": "16_QR_REAL_BUTTONS",
+          "title": "디바이스 화면의 QR 스캔",
+          "speaker": "PINK (V.O.)",
+          "duration": 6,
+          "dialogue": "Then scan the QR code on its screen with your phone.",
+          "ko": "그다음 휴대폰으로 NOVA 화면의 QR 코드를 스캔해줘.",
+          "motion": "휴대폰이 QR을 스캔하는 동작만 짧게 추가한다. 핑크는 화면 밖에서 안내한다. QR은 구도 확인용이다.",
+          "asset_origin": "Seedream 5 Pro · 실제 하드웨어 버튼 반영",
+          "visible": "실제 디바이스의 가슴 원형 버튼 3개와 아래 사각 버튼 1개가 보인다. 검은 화면에는 QR이 표시되고, 왼쪽 휴대폰이 코드를 스캔한다."
+        },
+        {
+          "image": "09_APP_WELCOME",
+          "title": "거기서 만나!",
+          "speaker": "MINT",
+          "duration": 2,
+          "dialogue": "See you there!",
+          "ko": "거기서 만나!",
+          "motion": "네 친구가 작게 팔을 흔들며 인사. 실제 앱의 QR 스캔 동작으로 이어진다.",
+          "asset_origin": "승인된 V5 · 기존",
+          "visible": "블루·민트·옐로·핑크 네 명이 우주 무대 위에 나란히 서 있고 뒤로 큰 행성이 보인다."
+        }
+      ]
+    },
+    "connection": {
+      "title": "연결 · 기다리는 동안 네 친구와 친해지기",
+      "description": "디바이스 연결과 준비가 진행되는 동안 각 NOVA를 소개합니다. 실제 준비가 끝나면 현재 문장을 마친 뒤 완료 화면으로 전환합니다.",
+      "shots": [
+        {
+          "image": "04_MINT_IDEA",
+          "title": "MINT · 호기심 많은 인사",
+          "speaker": "MINT",
+          "duration": 6,
+          "dialogue": "I'm NOVA Mint! Big ideas, little experiments. What shall we try first?",
+          "ko": "나는 NOVA 민트야! 큰 상상도 작은 실험부터. 우리 뭐부터 해볼까?",
+          "motion": "짧은 홉 후 착지하며 인사. 별도 실험 도구나 따라가는 빛은 이 컷에 추가하지 않는다.",
+          "asset_origin": "승인된 V5 · 기존",
+          "visible": "민트 한 명이 팔을 들고 살짝 떠 있다. 발아래 민트색 곡선 궤적이 보인다."
+        },
+        {
+          "image": "05_BLUE_VERIFY",
+          "title": "BLUE · 차분한 안내",
+          "speaker": "BLUE",
+          "duration": 7,
+          "dialogue": "I'm NOVA Blue. No rush. We'll work through it, one step at a time.",
+          "ko": "나는 NOVA 블루야. 서두르지 않아도 돼. 한 걸음씩 함께 풀어보자.",
+          "motion": "지금의 자세로 부드럽게 떠서 인사. 망토와 팔만 작게 움직인다. 빛을 정렬하는 동작은 넣지 않는다.",
+          "asset_origin": "승인된 V5 · 기존",
+          "visible": "블루 한 명이 짧은 망토를 두르고 떠 있다. 한쪽 팔을 들고 뒤로 청록색 빛 선이 보인다."
+        },
+        {
+          "image": "06_YELLOW_LISTEN",
+          "title": "YELLOW · 이야기를 듣는 인사",
+          "speaker": "YELLOW",
+          "duration": 6,
+          "dialogue": "I'm NOVA Yellow. Good day or tough day, I'm here to listen.",
+          "ko": "나는 NOVA 옐로야. 좋은 날에도 힘든 날에도, 네 이야기를 들어줄게.",
+          "motion": "고개와 팔을 작게 움직이며 말을 건넨다. 그림에 없는 소리 파동이나 다른 친구는 넣지 않는다.",
+          "asset_origin": "승인된 V5 · 기존",
+          "visible": "옐로 한 명이 흰색 몸통과 낮은 은색 발로 서 있고 한쪽 팔을 들고 있다."
+        },
+        {
+          "image": "07_PINK_NEXT_STEP",
+          "title": "PINK · 다음 한 걸음을 제안",
+          "speaker": "PINK",
+          "duration": 6,
+          "dialogue": "I'm NOVA Pink. Tell me your goal. Let's find the next step together.",
+          "ko": "나는 NOVA 핑크야. 목표를 알려줘. 다음 한 걸음을 같이 찾아보자.",
+          "motion": "탁자 쪽으로 든 팔을 살짝 움직인 뒤 사용자를 바라본다. 점을 연결하거나 색을 바꾸지 않는다.",
+          "asset_origin": "승인된 V5 · 기존",
+          "visible": "핑크 한 명이 작은 탁자 옆에 서 있고, 탁자 위에는 흰색 점 세 개가 나란히 놓여 있다."
+        }
+      ]
+    }
+  },
+  "states": {
+    "waiting": {
+      "speaker": "MINT",
+      "dialogue": "Still getting ready. We'll keep you company.",
+      "ko": "아직 준비 중이야. 우리가 같이 있어줄게.",
+      "image": "12_WAIT_TOGETHER",
+      "visible": "네 친구가 우주 무대 위에서 작은 빛을 주고받는다. 민트는 살짝 떠 있고 나머지 친구들은 주위에 서 있다.",
+      "motion": "이 이미지에 있는 작은 빛과 팔 동작을 잔잔하게 반복한다."
+    },
+    "ready": {
+      "dialogue": "All set! Say hello to your NOVA.",
+      "ko": "준비됐어! 이제 NOVA에게 인사해줘.",
+      "image": "14_MINT_STARDUST_SELECTED",
+      "visible": "민트 선택 시 확정된 별빛 전환 이미지를 사용한다. 우주 속 민트가 실제 디바이스로 이어지는 연결 완료 장면이다.",
+      "motion": "민트의 별빛이 실제 디바이스 화면으로 이어지며 앱 온보딩을 마무리한다. 이후 대화는 디바이스에서 진행한다.",
+      "asset_origin": "선택 확정 · REFERENCE 05 · Seedream 5 Pro"
+    }
+  },
+  "notes": [
+    "Still-image storyboard preview with English dialogue and Korean meaning; no generated video or voice.",
+    "Opening 27 seconds; connection personas 25 seconds; timing provisional until canonical voices are recorded.",
+    "QR is illustrative, not a live device-pairing code. Cable/power depiction is a storyboard concept, not an engineering diagram.",
+    "Ready status comes from real app state in production; controls on this page simulate it.",
+    "V8 visual audit: group arrival and Mint greeting split into separate shots; all visible descriptions grounded in final images. Proposed animation is separately labeled. Persona dialogue describes personality, not an unpictured demonstration.",
+    "V9: MINT first-conversation transition uses the user-uploaded real hardware reference. Other character choices retain their existing individual previews.",
+    "App onboarding ends at the ready/device handoff. First conversation and name question occur on the physical device and are excluded from this page.",
+    "2026-11-09: Power and QR scenes regenerated against user hardware photo; three round chest controls and one lower rectangular control verified visually."
+  ],
+  "selected_arrival_reference": {
+    "number": 5,
+    "id": "05_STARDUST_MERGE",
+    "title": "별빛이 되어 스며드는 민트",
+    "image": "14_MINT_STARDUST_SELECTED.jpg"
+  }
+}
